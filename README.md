@@ -19,8 +19,6 @@
 
 - 📄 Resume [Check My Experience](https://drive.google.com/file/d/1kPDUERw0vpPNF3LtlbLr9BJmabyWjg7U/view?usp=drive_link)
 
-- 🔭 I’m currently working on project [Buyer Zone Bd](https://www.buyerzonebd.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Hasibur57416868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridoystarlord" height="30" width="40" /></a>
