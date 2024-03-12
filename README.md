@@ -3,7 +3,7 @@
 <h4 align="center">I am a tech enthusiastic and potential developer with excellent skills in the area of MERN stack development. I have explored HTML, CSS, Bootstrap, React js, Node js, MongoDB,Typescript, Next js, Mongoose, Material UI, and other technology related to web development. I have also developed some professional websites that helped me to grow up as a professional web developer. In the near future i will explore more other technologies. I am Looking forward to working in a supportive environment where my experience and creative skills will be appreciated. If you hire me as a web Developer, I assure you I will fit into your team quickly and work as a team.</h4>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridoystarlord&label=Profile%20views&color=0e75b6&style=flat" alt="hasibur rahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasiburRahmanDurjoy&label=Profile%20views&color=0e75b6&style=flat" alt="hasibur rahman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Hasibur57416868" target="blank"><img src="https://img.shields.io/twitter/follow/hasibur%20rahman?logo=twitter&style=for-the-badge" alt="hasibur rahman" /></a> </p>
 
